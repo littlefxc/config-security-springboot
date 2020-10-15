@@ -1,1 +1,9 @@
 # config-security-springboot
+
+```shell
+# java -cp ~/.m2/comdruid-1.0.16.jar com.alibaba.druid.filter.config.ConfigTools 你的密码
+$ java -cp ~/.m2/comdruid-1.0.16.jar com.alibaba.druid.filter.config.ConfigTools littlefxc.Fxc123
+privateKey:MIIBVQIBADANBgkqhkiG9w0BAQEFAASCAT8wggE7AgEAAkEAgP7oJvENw0DfwK3hVOE3ADer9zgjiCPnZ45qxdYe6ohRwTFILic8koCCbl/t26LPhS8cJnSUT/5n3C7VfZWf2wIDAQABAkBzWX5nNC9GZoCvX82bhTkVrLLOAxli6BhJdgTsnChROAg4EkH3WKj7bzKEBLfaTTbY+U2zoqp9N7VtM9WWvcfBAiEAuLQZeiSF/VvWQoGg82LwOZ8a5X01ybt0ySltOC3SfOkCIQCyyepHOYwjSnqXfIlRmODrYrb2/BESdyxIsO7/aZKsIwIhAIiMDLGxwqTVegbc0mJcaIAQ0c+Ky3MB9Iqq56W6qnvRAiBOA6dT3vuUZqppsbDlxxTWAWQfD8yPRysuqO4Qy0tyCwIhAI2WxBanjKRkO8mxaCNFSTtNJVF+w8IjO15ewS1L0Xx/
+publicKey:MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAID+6CbxDcNA38Ct4VThNwA3q/c4I4gj52eOasXWHuqIUcExSC4nPJKAgm5f7duiz4UvHCZ0lE/+Z9wu1X2Vn9sCAwEAAQ==
+password:Pp2LSQxi6F9AvkgqZq0zutVadnAqNjNw+iO40tBnnzb8MPAGeBlhV4wSPSy5Xdcl+btJP2GEblNerzzbhD3LjA==
+```
